@@ -5,7 +5,8 @@
     font-family: 'Poppins', sans-serif;
 }
 
-:root {
+:root {  
+    
     --main-color: #010314;
     --main-color-alt: #592dd1;
     --accent-color: #401d19;
